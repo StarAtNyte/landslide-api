@@ -7,3 +7,4 @@ requests==2.26.0
 matplotlib==3.4.3
 xgboost==1.4.2
 gunicorn==20.1.0
+scikit-learn==1.21.2
